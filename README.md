@@ -1,5 +1,7 @@
 # Buzzword Bingo App
 
+My Clone
+
 A full-stack serverless buzzword bingo application built with SST, React, and AWS.
 
 > **Conference Demo Project**: This application was created as a demonstration project for [InfoTech Research Group's LIVE 2025 conference](https://www.infotech.com/events/las-vegas-live-june-10-12-2025) in Las Vegas (June 10-12, 2025 at The Bellagio). It showcases modern serverless architecture patterns, cloud-native development practices, and rapid prototyping with AI.
